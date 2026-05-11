@@ -1,0 +1,61 @@
+{
+  "generated_at": "2026-05-11T03:56:28.757164",
+  "version": "3.112",
+  "script_hash": "a60c2ee19b34",
+  "scan_hours": 72,
+  "retention_days": 14,
+  "activities": [
+    {
+      "activity_id": "i146896981",
+      "date": "2026-05-08",
+      "type": "Ride",
+      "name": "Sydney Road Cycling",
+      "interval_summary": [
+        "4x 12m31s 164bpm",
+        "1x 16m20s 160bpm"
+      ],
+      "intervals": [
+        {
+          "type": "WORK",
+          "label": "751s@164bpm",
+          "duration_secs": 770,
+          "avg_hr": 158,
+          "max_hr": 169,
+          "zone": 3
+        },
+        {
+          "type": "WORK",
+          "label": "751s@164bpm",
+          "duration_secs": 709,
+          "avg_hr": 164,
+          "max_hr": 172,
+          "zone": 4
+        },
+        {
+          "type": "WORK",
+          "label": "751s@164bpm",
+          "duration_secs": 806,
+          "avg_hr": 166,
+          "max_hr": 177,
+          "zone": 4
+        },
+        {
+          "type": "WORK",
+          "label": "751s@164bpm",
+          "duration_secs": 717,
+          "avg_hr": 168,
+          "max_hr": 179,
+          "zone": 4
+        },
+        {
+          "type": "WORK",
+          "label": "980s@160bpm",
+          "duration_secs": 980,
+          "avg_hr": 160,
+          "max_hr": 176,
+          "zone": 4
+        }
+      ]
+    }
+  ]
+}
