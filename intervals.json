@@ -1,29 +1,10 @@
 {
-  "generated_at": "2026-05-28T21:02:42.731181",
+  "generated_at": "2026-05-29T06:18:01.973945",
   "version": "3.112",
   "script_hash": "a60c2ee19b34",
   "scan_hours": 72,
   "retention_days": 14,
   "activities": [
-    {
-      "activity_id": "i148056694",
-      "date": "2026-05-14",
-      "type": "VirtualRide",
-      "name": "Indoor Cycling",
-      "interval_summary": [
-        "1x 45m6s 133bpm"
-      ],
-      "intervals": [
-        {
-          "type": "WORK",
-          "label": "2706s@133bpm",
-          "duration_secs": 2706,
-          "avg_hr": 133,
-          "max_hr": 154,
-          "zone": 1
-        }
-      ]
-    },
     {
       "activity_id": "i148369272",
       "date": "2026-05-15",
@@ -1276,6 +1257,90 @@
           "zone": 2,
           "training_load": 36.50707,
           "decoupling": 5.220097
+        }
+      ]
+    },
+    {
+      "activity_id": "i152407451",
+      "date": "2026-05-29",
+      "type": "Run",
+      "name": "Callala Bay Running",
+      "interval_summary": [
+        "7x 6m15s 150bpm",
+        "1x 2s 163bpm"
+      ],
+      "intervals": [
+        {
+          "type": "WORK",
+          "label": "375s@150bpm89rpm",
+          "duration_secs": 381,
+          "avg_hr": 142,
+          "max_hr": 154,
+          "avg_cadence": 90.05774,
+          "zone": 1
+        },
+        {
+          "type": "WORK",
+          "label": "375s@150bpm89rpm",
+          "duration_secs": 390,
+          "avg_hr": 151,
+          "max_hr": 159,
+          "avg_cadence": 89.776,
+          "zone": 2
+        },
+        {
+          "type": "WORK",
+          "label": "375s@150bpm89rpm",
+          "duration_secs": 365,
+          "avg_hr": 147,
+          "max_hr": 153,
+          "avg_cadence": 89.38904,
+          "zone": 2
+        },
+        {
+          "type": "WORK",
+          "label": "375s@150bpm89rpm",
+          "duration_secs": 376,
+          "avg_hr": 150,
+          "max_hr": 158,
+          "avg_cadence": 88.986374,
+          "zone": 2
+        },
+        {
+          "type": "WORK",
+          "label": "375s@150bpm89rpm",
+          "duration_secs": 372,
+          "avg_hr": 149,
+          "max_hr": 156,
+          "avg_cadence": 88.80875,
+          "zone": 2
+        },
+        {
+          "type": "WORK",
+          "label": "375s@150bpm89rpm",
+          "duration_secs": 392,
+          "avg_hr": 152,
+          "max_hr": 163,
+          "avg_cadence": 89.047356,
+          "zone": 2
+        },
+        {
+          "type": "WORK",
+          "label": "375s@150bpm89rpm",
+          "duration_secs": 347,
+          "avg_hr": 159,
+          "max_hr": 170,
+          "avg_cadence": 88.610954,
+          "zone": 3
+        },
+        {
+          "type": "WORK",
+          "label": "2s@163bpm93rpm",
+          "duration_secs": 2,
+          "avg_hr": 163,
+          "max_hr": 163,
+          "avg_cadence": 92.5,
+          "zone": 4
         }
       ]
     }
