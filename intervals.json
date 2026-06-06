@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-05T22:44:14.409755",
+  "generated_at": "2026-06-06T08:15:53.679559",
   "version": "3.112",
   "script_hash": "a60c2ee19b34",
   "scan_hours": 72,
@@ -987,6 +987,82 @@
           "max_hr": 175,
           "avg_cadence": 85.64865,
           "zone": 4
+        }
+      ]
+    },
+    {
+      "activity_id": "i154694030",
+      "date": "2026-06-06",
+      "type": "Run",
+      "name": "Sydney Running",
+      "interval_summary": [
+        "5x 6m11s 152bpm",
+        "1x 7m5s 154bpm",
+        "1x 3m44s 156bpm"
+      ],
+      "intervals": [
+        {
+          "type": "WORK",
+          "label": "371s@152bpm90rpm",
+          "duration_secs": 382,
+          "avg_hr": 144,
+          "max_hr": 156,
+          "avg_cadence": 88.809784,
+          "zone": 2
+        },
+        {
+          "type": "WORK",
+          "label": "371s@152bpm90rpm",
+          "duration_secs": 369,
+          "avg_hr": 152,
+          "max_hr": 159,
+          "avg_cadence": 89.24176,
+          "zone": 2
+        },
+        {
+          "type": "WORK",
+          "label": "371s@152bpm90rpm",
+          "duration_secs": 381,
+          "avg_hr": 155,
+          "max_hr": 164,
+          "avg_cadence": 89.636856,
+          "zone": 3
+        },
+        {
+          "type": "WORK",
+          "label": "371s@152bpm90rpm",
+          "duration_secs": 368,
+          "avg_hr": 155,
+          "max_hr": 163,
+          "avg_cadence": 90.040764,
+          "zone": 3
+        },
+        {
+          "type": "WORK",
+          "label": "371s@152bpm90rpm",
+          "duration_secs": 356,
+          "avg_hr": 156,
+          "max_hr": 167,
+          "avg_cadence": 90.16573,
+          "zone": 3
+        },
+        {
+          "type": "WORK",
+          "label": "425s@154bpm89rpm",
+          "duration_secs": 425,
+          "avg_hr": 154,
+          "max_hr": 163,
+          "avg_cadence": 89.41598,
+          "zone": 3
+        },
+        {
+          "type": "WORK",
+          "label": "224s@156bpm89rpm",
+          "duration_secs": 224,
+          "avg_hr": 156,
+          "max_hr": 159,
+          "avg_cadence": 88.78125,
+          "zone": 3
         }
       ]
     }
