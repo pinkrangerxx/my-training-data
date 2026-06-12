@@ -1,31 +1,10 @@
 {
-  "generated_at": "2026-06-11T23:57:42.264797",
+  "generated_at": "2026-06-12T02:56:56.712051",
   "version": "3.112",
   "script_hash": "a60c2ee19b34",
   "scan_hours": 72,
   "retention_days": 14,
   "activities": [
-    {
-      "activity_id": "i152117013",
-      "date": "2026-05-28",
-      "type": "VirtualRide",
-      "name": "Indoor Cycling",
-      "interval_summary": null,
-      "intervals": [
-        {
-          "type": "RECOVERY",
-          "duration_secs": 3776,
-          "avg_power": 68,
-          "max_power": 146,
-          "avg_hr": 114,
-          "max_hr": 131,
-          "avg_cadence": 66.40361,
-          "zone": 2,
-          "training_load": 36.50707,
-          "decoupling": 5.220097
-        }
-      ]
-    },
     {
       "activity_id": "i152407451",
       "date": "2026-05-29",
@@ -890,6 +869,91 @@
           "avg_hr": 162,
           "max_hr": 167,
           "avg_cadence": 94.0,
+          "zone": 4
+        }
+      ]
+    },
+    {
+      "activity_id": "i156522641",
+      "date": "2026-06-12",
+      "type": "Run",
+      "name": "Naniwa Ward Running",
+      "interval_summary": [
+        "5x 6m30s 152bpm",
+        "2x 8m35s 149bpm",
+        "1x 99s 161bpm"
+      ],
+      "intervals": [
+        {
+          "type": "WORK",
+          "label": "390s@152bpm91rpm",
+          "duration_secs": 441,
+          "avg_hr": 142,
+          "max_hr": 156,
+          "avg_cadence": 90.253525,
+          "zone": 1
+        },
+        {
+          "type": "WORK",
+          "label": "515s@149bpm91rpm",
+          "duration_secs": 512,
+          "avg_hr": 143,
+          "max_hr": 160,
+          "avg_cadence": 90.62678,
+          "zone": 1
+        },
+        {
+          "type": "WORK",
+          "label": "390s@152bpm91rpm",
+          "duration_secs": 354,
+          "avg_hr": 153,
+          "max_hr": 162,
+          "avg_cadence": 91.59605,
+          "zone": 3
+        },
+        {
+          "type": "WORK",
+          "label": "390s@152bpm91rpm",
+          "duration_secs": 373,
+          "avg_hr": 154,
+          "max_hr": 161,
+          "avg_cadence": 90.37808,
+          "zone": 3
+        },
+        {
+          "type": "WORK",
+          "label": "390s@152bpm91rpm",
+          "duration_secs": 404,
+          "avg_hr": 152,
+          "max_hr": 162,
+          "avg_cadence": 91.36313,
+          "zone": 2
+        },
+        {
+          "type": "WORK",
+          "label": "390s@152bpm91rpm",
+          "duration_secs": 377,
+          "avg_hr": 158,
+          "max_hr": 168,
+          "avg_cadence": 90.76338,
+          "zone": 3
+        },
+        {
+          "type": "WORK",
+          "label": "515s@149bpm91rpm",
+          "duration_secs": 518,
+          "avg_hr": 154,
+          "max_hr": 169,
+          "avg_cadence": 90.66082,
+          "zone": 3
+        },
+        {
+          "type": "WORK",
+          "label": "99s@161bpm93rpm",
+          "duration_secs": 99,
+          "avg_hr": 161,
+          "max_hr": 170,
+          "avg_cadence": 92.934784,
           "zone": 4
         }
       ]
