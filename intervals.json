@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-21T02:02:50.927459",
+  "generated_at": "2026-06-21T07:03:49.985407",
   "version": "3.112",
   "script_hash": "a60c2ee19b34",
   "scan_hours": 72,
@@ -648,6 +648,215 @@
           "avg_hr": 160,
           "max_hr": 170,
           "zone": 4
+        }
+      ]
+    },
+    {
+      "activity_id": "i159014925",
+      "date": "2026-06-21",
+      "type": "Ride",
+      "name": "Imabari City Road Cycling",
+      "interval_summary": [
+        "2x 30m23s 157bpm",
+        "5x 12m8s 153bpm",
+        "1x 21m36s 157bpm",
+        "2x 40m34s 154bpm",
+        "4x 16m22s 150bpm",
+        "2x 52m26s 150bpm",
+        "1x 25m52s 155bpm"
+      ],
+      "intervals": [
+        {
+          "type": "WORK",
+          "label": "1823s@157bpm",
+          "duration_secs": 1776,
+          "avg_hr": 160,
+          "max_hr": 172,
+          "zone": 4
+        },
+        {
+          "type": "RECOVERY",
+          "duration_secs": 1,
+          "avg_hr": 169,
+          "max_hr": 169,
+          "zone": 4
+        },
+        {
+          "type": "WORK",
+          "label": "1823s@157bpm",
+          "duration_secs": 1869,
+          "avg_hr": 154,
+          "max_hr": 171,
+          "zone": 3
+        },
+        {
+          "type": "RECOVERY",
+          "duration_secs": 2,
+          "avg_hr": 163,
+          "max_hr": 163,
+          "zone": 4
+        },
+        {
+          "type": "WORK",
+          "label": "728s@153bpm",
+          "duration_secs": 713,
+          "avg_hr": 140,
+          "max_hr": 163,
+          "zone": 2
+        },
+        {
+          "type": "WORK",
+          "label": "728s@153bpm",
+          "duration_secs": 670,
+          "avg_hr": 160,
+          "max_hr": 169,
+          "zone": 4
+        },
+        {
+          "type": "WORK",
+          "label": "1296s@157bpm",
+          "duration_secs": 1296,
+          "avg_hr": 157,
+          "max_hr": 176,
+          "zone": 3
+        },
+        {
+          "type": "RECOVERY",
+          "duration_secs": 2,
+          "avg_hr": 163,
+          "max_hr": 163,
+          "zone": 4
+        },
+        {
+          "type": "WORK",
+          "label": "2434s@154bpm",
+          "duration_secs": 2395,
+          "avg_hr": 156,
+          "max_hr": 170,
+          "zone": 3
+        },
+        {
+          "type": "RECOVERY",
+          "duration_secs": 2,
+          "avg_hr": 166,
+          "max_hr": 166,
+          "zone": 4
+        },
+        {
+          "type": "WORK",
+          "label": "982s@150bpm",
+          "duration_secs": 913,
+          "avg_hr": 157,
+          "max_hr": 167,
+          "zone": 3
+        },
+        {
+          "type": "WORK",
+          "label": "2434s@154bpm",
+          "duration_secs": 2472,
+          "avg_hr": 151,
+          "max_hr": 165,
+          "zone": 2
+        },
+        {
+          "type": "RECOVERY",
+          "duration_secs": 1,
+          "avg_hr": 161,
+          "max_hr": 161,
+          "zone": 4
+        },
+        {
+          "type": "WORK",
+          "label": "3146s@150bpm",
+          "duration_secs": 3095,
+          "avg_hr": 150,
+          "max_hr": 175,
+          "zone": 2
+        },
+        {
+          "type": "RECOVERY",
+          "duration_secs": 1,
+          "avg_hr": 124,
+          "max_hr": 124,
+          "zone": 1
+        },
+        {
+          "type": "WORK",
+          "label": "1552s@155bpm",
+          "duration_secs": 1552,
+          "avg_hr": 155,
+          "max_hr": 164,
+          "zone": 3
+        },
+        {
+          "type": "RECOVERY",
+          "duration_secs": 2,
+          "avg_hr": 150,
+          "max_hr": 151,
+          "zone": 2
+        },
+        {
+          "type": "WORK",
+          "label": "3146s@150bpm",
+          "duration_secs": 3196,
+          "avg_hr": 149,
+          "max_hr": 166,
+          "zone": 2
+        },
+        {
+          "type": "RECOVERY",
+          "duration_secs": 1,
+          "avg_hr": 144,
+          "max_hr": 144,
+          "zone": 2
+        },
+        {
+          "type": "WORK",
+          "label": "728s@153bpm",
+          "duration_secs": 723,
+          "avg_hr": 157,
+          "max_hr": 168,
+          "zone": 3
+        },
+        {
+          "type": "WORK",
+          "label": "982s@150bpm",
+          "duration_secs": 929,
+          "avg_hr": 149,
+          "max_hr": 167,
+          "zone": 2
+        },
+        {
+          "type": "WORK",
+          "label": "982s@150bpm",
+          "duration_secs": 1055,
+          "avg_hr": 147,
+          "max_hr": 160,
+          "zone": 2
+        },
+        {
+          "type": "WORK",
+          "label": "982s@150bpm",
+          "duration_secs": 1030,
+          "avg_hr": 148,
+          "max_hr": 165,
+          "zone": 2
+        },
+        {
+          "type": "WORK",
+          "label": "728s@153bpm",
+          "duration_secs": 800,
+          "avg_hr": 154,
+          "max_hr": 163,
+          "zone": 3
+        },
+        {
+          "type": "WORK",
+          "label": "728s@153bpm",
+          "duration_secs": 733,
+          "avg_hr": 154,
+          "max_hr": 162,
+          "zone": 3
         }
       ]
     }
