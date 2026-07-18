@@ -1,84 +1,10 @@
 {
-  "generated_at": "2026-07-17T23:12:29.120117",
+  "generated_at": "2026-07-18T00:06:58.812612",
   "version": "3.112",
   "script_hash": "a60c2ee19b34",
   "scan_hours": 72,
   "retention_days": 14,
   "activities": [
-    {
-      "activity_id": "i162322687",
-      "date": "2026-07-03",
-      "type": "VirtualRun",
-      "name": "Treadmill Running",
-      "interval_summary": [
-        "4x 9m24s 161bpm",
-        "1x 2m30s 169bpm",
-        "1x 3s 169bpm"
-      ],
-      "intervals": [
-        {
-          "type": "WORK",
-          "label": "564s@161bpm90rpm",
-          "duration_secs": 555,
-          "avg_hr": 153,
-          "max_hr": 163,
-          "avg_cadence": 89.91351,
-          "zone": 3
-        },
-        {
-          "type": "WORK",
-          "label": "564s@161bpm90rpm",
-          "duration_secs": 571,
-          "avg_hr": 161,
-          "max_hr": 169,
-          "avg_cadence": 89.93695,
-          "zone": 4
-        },
-        {
-          "type": "WORK",
-          "label": "564s@161bpm90rpm",
-          "duration_secs": 569,
-          "avg_hr": 164,
-          "max_hr": 170,
-          "avg_cadence": 90.23374,
-          "zone": 4
-        },
-        {
-          "type": "WORK",
-          "label": "564s@161bpm90rpm",
-          "duration_secs": 560,
-          "avg_hr": 167,
-          "max_hr": 174,
-          "avg_cadence": 90.057144,
-          "zone": 4
-        },
-        {
-          "type": "WORK",
-          "label": "150s@169bpm90rpm",
-          "duration_secs": 150,
-          "avg_hr": 169,
-          "max_hr": 172,
-          "avg_cadence": 89.54667,
-          "zone": 4
-        },
-        {
-          "type": "WORK",
-          "label": "3s@169bpm89rpm",
-          "duration_secs": 3,
-          "avg_hr": 169,
-          "max_hr": 170,
-          "avg_cadence": 89.0,
-          "zone": 4
-        },
-        {
-          "type": "RECOVERY",
-          "duration_secs": 1,
-          "avg_hr": 169,
-          "max_hr": 169,
-          "zone": 4
-        }
-      ]
-    },
     {
       "activity_id": "i163069332",
       "date": "2026-07-06",
