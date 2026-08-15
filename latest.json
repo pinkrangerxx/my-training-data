@@ -70,7 +70,7 @@
   },
   "metadata": {
     "athlete_id": "REDACTED",
-    "last_updated": "2026-08-15T03:01:20.330979",
+    "last_updated": "2026-08-15T03:50:42.413411",
     "data_range_days": 7,
     "extended_range_days": 28,
     "version": "3.112"
@@ -109,10 +109,10 @@
         "delta_pct": null
       },
       "rhr": {
-        "status": "unavailable",
-        "value": null,
-        "baseline_7d": null,
-        "delta_bpm": null
+        "status": "green",
+        "value": 76,
+        "baseline_7d": 76,
+        "delta_bpm": 0
       },
       "sleep": {
         "status": "unavailable",
@@ -130,14 +130,14 @@
       },
       "tsb": {
         "status": "green",
-        "value": 22.3
+        "value": 21.0
       }
     },
     "signal_summary": {
-      "green": 2,
+      "green": 3,
       "amber": 0,
       "red": 0,
-      "unavailable": 4
+      "unavailable": 3
     },
     "phase_context": {
       "phase": "Base",
@@ -147,7 +147,7 @@
     },
     "race_week_defers": false,
     "modification": null,
-    "reason": "P3 green light. 2 green, 0 amber (threshold 2), 0 red. Note: 4 signals unavailable \u2014 limited data.",
+    "reason": "P3 green light. 3 green, 0 amber (threshold 2), 0 red.",
     "alarm_refs": []
   },
   "history": {
@@ -166,10 +166,10 @@
   },
   "current_status": {
     "fitness": {
-      "ctl": 26.43,
-      "atl": 4.12,
-      "tsb": 22.31,
-      "ramp_rate": -4.79,
+      "ctl": 27.34,
+      "atl": 6.37,
+      "tsb": 20.97,
+      "ramp_rate": -4.96,
       "fitness_source": "From Intervals.icu API (reflects completed workouts)"
     },
     "thresholds": {
@@ -213,7 +213,7 @@
           "unit": "kg"
         }
       },
-      "resting_hr": 58,
+      "resting_hr": 76,
       "hrv": null,
       "sleep_quality": null,
       "sleep_hours": null,
@@ -235,7 +235,7 @@
       "respiration": null,
       "body_fat_pct": null,
       "abdomen_cm": null,
-      "steps": null,
+      "steps": 86,
       "hydration_volume_l": null,
       "kcal_consumed": null,
       "carbohydrates_g": null,
@@ -250,11 +250,11 @@
     "recovery_index": null,
     "recovery_index_yesterday": null,
     "hrv_baseline_7d": null,
-    "rhr_baseline_7d": null,
+    "rhr_baseline_7d": 76,
     "hrv_baseline_28d": null,
-    "rhr_baseline_28d": 73.3,
+    "rhr_baseline_28d": 77.5,
     "latest_hrv": null,
-    "latest_rhr": null,
+    "latest_rhr": 76,
     "acwr": 0.0,
     "acwr_interpretation": "undertraining",
     "monotony": null,
@@ -268,7 +268,7 @@
     "stress_tolerance": null,
     "load_recovery_ratio": null,
     "tss_7d_total": 0,
-    "tss_28d_total": 603.0,
+    "tss_28d_total": 649.0,
     "zone_distribution_7d": {
       "z1_hours": 0.0,
       "z2_hours": 0.0,
@@ -298,12 +298,12 @@
     },
     "seiler_tid_7d_primary": null,
     "seiler_tid_28d": {
-      "z1_seconds": 9830,
-      "z2_seconds": 5464,
-      "z3_seconds": 14509,
-      "z1_pct": 33.0,
-      "z2_pct": 18.3,
-      "z3_pct": 48.7,
+      "z1_seconds": 11513,
+      "z2_seconds": 5548,
+      "z3_seconds": 14539,
+      "z1_pct": 36.4,
+      "z2_pct": 17.6,
+      "z3_pct": 46.0,
       "polarization_index": null,
       "classification": "High Intensity",
       "zone_basis": "hr"
@@ -469,12 +469,12 @@
     "p_max": 299,
     "power_model_source": "wellness.sportInfo",
     "vo2max": null,
-    "calculation_timestamp": "2026-08-15T03:01:20.329828",
+    "calculation_timestamp": "2026-08-15T03:50:42.412573",
     "data_quality": {
       "hrv_data_points": 0,
-      "rhr_data_points": 0,
+      "rhr_data_points": 1,
       "activities_7d": 0,
-      "activities_28d": 7,
+      "activities_28d": 8,
       "planned_workouts_7d": 0,
       "ftp_history_days": {
         "indoor": 0,
@@ -483,6 +483,72 @@
     }
   },
   "recent_activities": [
+    {
+      "id": "i175949712",
+      "date": "2026-08-08T06:57:05",
+      "type": "VirtualRun",
+      "name": "Treadmill Running",
+      "duration_hours": 0.5,
+      "distance_km": 5.63,
+      "tss": 46,
+      "intensity_factor": 95.86339,
+      "avg_power": null,
+      "normalized_power": null,
+      "avg_hr": 144,
+      "max_hr": 163,
+      "avg_cadence": 88.165,
+      "avg_speed": 11.2,
+      "avg_speed_unit": "KPH",
+      "max_speed": 11.9,
+      "max_speed_unit": "KPH",
+      "avg_pace": null,
+      "avg_temp": null,
+      "avg_temp_unit": "C",
+      "weather": null,
+      "humidity": null,
+      "wind_speed": null,
+      "wind_speed_unit": "KMH",
+      "work_kj": null,
+      "calories": 253,
+      "carbs_used": null,
+      "carbs_ingested": null,
+      "variability_index": null,
+      "decoupling": null,
+      "efficiency_factor": null,
+      "hrrc": null,
+      "elevation_m": null,
+      "display": {
+        "distance": {
+          "value": 5.63,
+          "unit": "km"
+        },
+        "elevation": null,
+        "avg_speed": {
+          "value": 11.2,
+          "unit": "km/h"
+        },
+        "max_speed": {
+          "value": 11.9,
+          "unit": "km/h"
+        }
+      },
+      "feel": null,
+      "rpe": null,
+      "effort_response": null,
+      "zone_distribution": {
+        "hr_zones": {
+          "z1_time": 761,
+          "z2_time": 922,
+          "z3_time": 84,
+          "z4_time": 30,
+          "z5_time": 0,
+          "z6_time": 0,
+          "z7_time": 0
+        }
+      },
+      "has_intervals": false,
+      "has_dfa": false
+    },
     {
       "id": "i170420583",
       "date": "2026-07-29T19:34:48",
@@ -1269,7 +1335,7 @@
       "display": {
         "weight": null
       },
-      "resting_hr": null,
+      "resting_hr": 76,
       "hrv_rmssd": null,
       "hrv_sdnn": null,
       "sleep_hours": null,
@@ -1295,7 +1361,7 @@
       "respiration": null,
       "body_fat_pct": null,
       "abdomen_cm": null,
-      "steps": null,
+      "steps": 86,
       "hydration_volume_l": null,
       "kcal_consumed": null,
       "carbohydrates_g": null,
@@ -1321,7 +1387,7 @@
     "total_tss": 0,
     "activities_count": 0,
     "avg_hrv": null,
-    "avg_resting_hr": null
+    "avg_resting_hr": 76.0
   },
   "race_calendar": {
     "next_race": null,
